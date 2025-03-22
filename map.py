@@ -2,6 +2,8 @@ from cell import *
 from const import *
 import pygame
 
+
+# Map class for UI changes that i need for testing git
 class Map_UI:
     def __init__(self, file_name) -> None:
         self.map_size = 10
